@@ -1,0 +1,89 @@
+.image{
+    display: block;
+    border-radius: 300px;
+    width: 400px;
+}
+.div1{
+    padding-bottom: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+}
+.login{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background-color: green;
+    font-size: 15px;
+    margin-right: 10px;
+    border-radius: 18px;
+    cursor: pointer;
+}
+.login :hover{
+    background-color: brown;
+    opacity: 1s;
+}
+.login :active{
+    background-color: black;
+    color: red;
+}
+    .more{
+        padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background-color: black;
+    font-size: 15px;
+    margin-right: 10px;
+    border-radius: 18px;
+    cursor: pointer;
+    box-shadow: white;
+    margin-top: 20px;
+    }
+
+    .next{
+        padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background-color:blue;
+    font-size: 15px;
+    margin-bottom: 20px;
+    border-radius: 18px;
+    cursor: pointer;
+
+    }
+    .sidebar{ ;
+        color: white;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        top: 55px;
+    }
+    .bar{
+        color: white;
+        position: fixed;
+        left: 0;
+        right: 0px;
+        top: 0;
+
+    }
+    .id{
+        height: 1000px;
+        padding-top: 60px;
+        padding-left: 60px;
+
+    }
+    .submit{
+        margin-top: 20px;
+        margin-right: 500px;
+    }
+    .aqua{
+        text-align:center ;
+        max-width: 400px;
+        margin-left: 200px;
+        font-size: larger;
+    }
